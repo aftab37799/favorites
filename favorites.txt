@@ -1,5 +1,11 @@
+-- Favorite Foods
 Biryani
 Shawarma
 Alfam
 Sandwitches
+-- Favorite Movies
+Dunki
+URI
+Namaste London
+PK
 
